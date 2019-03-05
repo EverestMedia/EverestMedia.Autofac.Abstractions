@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Everest Media Ltd</Authors>
+    <Company>Everest Media Ltd</Company>
+    <PackageTags>autofac abstractions</PackageTags>
+    <PackageProjectUrl>https://github.com/EverestMedia</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
